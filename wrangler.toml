@@ -1,4 +1,4 @@
-name = "v20260507"
+name = "doh-worker"
 main = "_worker.js"
 compatibility_date = "2026-05-07"
 keep_vars = true
